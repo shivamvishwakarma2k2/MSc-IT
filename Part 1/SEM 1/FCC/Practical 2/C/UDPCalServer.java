@@ -1,9 +1,7 @@
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
+import java.net.*;
 import java.util.StringTokenizer;
 
-public class C_UDPCalServer {
+public class UDPCalServer {
     DatagramSocket ds;
     DatagramPacket dp;
     String str, methodName, result;

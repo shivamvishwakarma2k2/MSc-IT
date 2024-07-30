@@ -1,6 +1,6 @@
 import java.net.*;
 
-public class A_UDPServerEvenOdd {
+public class UDPServerEvenOdd {
     public static void main(String args[]) {
         try {
             DatagramSocket ds = new DatagramSocket(2000);

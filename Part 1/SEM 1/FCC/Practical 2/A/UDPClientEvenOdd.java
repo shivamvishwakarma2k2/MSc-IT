@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class A_UDPClientEvenOdd {
+public class UDPClientEvenOdd {
     public static void main(String args[]) {
         try {
             DatagramSocket ds = new DatagramSocket(1000);

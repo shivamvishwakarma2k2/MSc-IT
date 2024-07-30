@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class C_UDPCalClient {
+public class UDPCalClient {
     C_UDPCalClient() {
         try {
             InetAddress ia = InetAddress.getLocalHost();

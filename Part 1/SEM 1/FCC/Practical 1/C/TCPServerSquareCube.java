@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class C_TCPServerSquareCube {
+public class TCPServerSquareCube {
     public static void main(String[] args) {
         try {
             ServerSocket ss = new ServerSocket(8000);

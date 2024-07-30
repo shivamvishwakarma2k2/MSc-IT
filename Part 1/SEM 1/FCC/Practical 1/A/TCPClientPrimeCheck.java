@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class A_TCPClientPrimeCheck {
+public class TCPClientPrimeCheck {
     public static void main(String[] args) {
         try {
             Socket s = new Socket("LocalHost", 8001);

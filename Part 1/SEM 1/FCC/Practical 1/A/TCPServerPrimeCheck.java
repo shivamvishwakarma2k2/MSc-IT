@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class A_TCPServerPrimeCheck {
+public class TCPServerPrimeCheck {
     public static void main(String[] args) {
         try {
             ServerSocket ss = new ServerSocket(8001);

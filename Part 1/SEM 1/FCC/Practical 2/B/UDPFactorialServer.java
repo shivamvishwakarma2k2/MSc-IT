@@ -1,7 +1,6 @@
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
+import java.net.*;
 
-public class B_UDPFactorialServer {
+public class UDPFactorialServer {
 
     public static int fact(int n) {
         if (n == 1) {

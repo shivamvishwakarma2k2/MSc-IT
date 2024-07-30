@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class C_TCPClientSquareCube {
+public class TCPClientSquareCube {
      public static void main(String[] args) {
         try {
             Socket s = new Socket("localhost", 8000);

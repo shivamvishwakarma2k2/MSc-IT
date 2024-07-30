@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class B_TCPChatClient {
+public class TCPChatClient {
     public static void main(String[] args) {
         try {
             Socket s = new Socket("Localhost", 8000);
