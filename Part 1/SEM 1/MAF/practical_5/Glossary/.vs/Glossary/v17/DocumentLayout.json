@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical_5\\glossary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical_5\\glossary\\controllers\\glossarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|solutionrelative:controllers\\glossarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical_5\\glossary\\glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B7DE44-B674-4254-AFA0-45C26EFBB309}|Glossary.csproj|solutionrelative:glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlossaryController.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\Controllers\\GlossaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GlossaryController.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\Controllers\\GlossaryController.cs",
+              "RelativeToolTip": "Controllers\\GlossaryController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAgwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:33:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:29:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlossaryItem.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\GlossaryItem.cs",
+              "RelativeDocumentMoniker": "GlossaryItem.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\practical_5\\Glossary\\GlossaryItem.cs",
+              "RelativeToolTip": "GlossaryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:28:37.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
