@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lhd5y8gv2RuDtYhL2n5U4VIU23Cp+HWTw/V0uq2IQqA=",
+  "Source": "weather_forecast",
+  "BasePath": "_content/weather_forecast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

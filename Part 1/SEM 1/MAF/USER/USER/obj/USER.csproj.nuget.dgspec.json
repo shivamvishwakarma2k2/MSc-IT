@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSc-IT\\Part 1\\MAF\\USER\\USER\\USER.csproj": {}
+    "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\USER\\USER\\USER.csproj": {}
   },
   "projects": {
-    "D:\\MSc-IT\\Part 1\\MAF\\USER\\USER\\USER.csproj": {
+    "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\USER\\USER\\USER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSc-IT\\Part 1\\MAF\\USER\\USER\\USER.csproj",
+        "projectUniqueName": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\USER\\USER\\USER.csproj",
         "projectName": "USER",
-        "projectPath": "D:\\MSc-IT\\Part 1\\MAF\\USER\\USER\\USER.csproj",
+        "projectPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\USER\\USER\\USER.csproj",
         "packagesPath": "C:\\Users\\Shivam Vishwakarma\\.nuget\\packages\\",
-        "outputPath": "D:\\MSc-IT\\Part 1\\MAF\\USER\\USER\\obj\\",
+        "outputPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\USER\\USER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shivam Vishwakarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
