@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\apigateway\\weather_6620\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\apigateway\\weather_6620\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\apigateway\\weather_6620\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28E01FB4-5321-4506-B855-51A911A3C727}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIGateway",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T15:23:17.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:11:58.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\APIGateway\\Weather_6620\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T15:09:24.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
