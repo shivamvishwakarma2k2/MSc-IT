@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\mvcpractical\\mvcpractical\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|solutionrelative:mvcpractical\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\mvcpractical\\mvcpractical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|solutionrelative:mvcpractical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\mvcpractical\\mvcpractical\\models\\stockquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360E70D5-CB85-470E-AA8F-558E06189848}|MVCPractical\\MVCPractical.csproj|solutionrelative:mvcpractical\\models\\stockquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPractical\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCPractical\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:47:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCPractical\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCPractical\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:45:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockQuotes.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Models\\StockQuotes.cs",
+              "RelativeDocumentMoniker": "MVCPractical\\Models\\StockQuotes.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\MVCPractical\\MVCPractical\\Models\\StockQuotes.cs",
+              "RelativeToolTip": "MVCPractical\\Models\\StockQuotes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:44:16.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\console_practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100813B8-2EA4-4922-AEA0-AC8548C58554}|console_practical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\console_practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100813B8-2EA4-4922-AEA0-AC8548C58554}|console_practical.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100813B8-2EA4-4922-AEA0-AC8548C58554}|console_practical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\console_practical\\console_practical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{100813B8-2EA4-4922-AEA0-AC8548C58554}|console_practical.csproj|solutionrelative:console_practical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "console_practical",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\console_practical\\console_practical.csproj",
+              "RelativeDocumentMoniker": "console_practical.csproj",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\console_practical\\console_practical.csproj",
+              "RelativeToolTip": "console_practical.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T14:25:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\console_practical\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\console_practical\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:25:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

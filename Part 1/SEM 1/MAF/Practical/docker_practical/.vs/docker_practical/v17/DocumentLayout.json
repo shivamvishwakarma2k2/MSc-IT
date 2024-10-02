@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\docker_practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A9FA2F-4FE5-44EB-9A78-3D5D6D58FD13}|docker_practical\\docker_practical.csproj|d:\\msc-it\\part 1\\sem 1\\maf\\practical\\docker_practical\\docker_practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A9FA2F-4FE5-44EB-9A78-3D5D6D58FD13}|docker_practical\\docker_practical.csproj|solutionrelative:docker_practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\docker_practical\\docker_practical\\Program.cs",
+              "RelativeDocumentMoniker": "docker_practical\\Program.cs",
+              "ToolTip": "D:\\MSc-IT\\Part 1\\SEM 1\\MAF\\Practical\\docker_practical\\docker_practical\\Program.cs",
+              "RelativeToolTip": "docker_practical\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:54:22.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

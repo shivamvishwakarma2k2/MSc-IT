@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mA8jc0s3WoTr05HG8KvO+wcPS5ABApCZCqZHPaS/qD8=",
+  "Source": "docker_practical",
+  "BasePath": "_content/docker_practical",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
