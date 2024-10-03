@@ -1,0 +1,11 @@
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\dcokerprac.exe
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\dcokerprac.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\dcokerprac.deps.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\dcokerprac.runtimeconfig.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\dcokerprac.pdb
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dcokerprac\dcokerprac\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

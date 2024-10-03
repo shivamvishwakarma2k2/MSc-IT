@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uKpOVegIIY5elcY5SoLK9N+DNSpLqvgp9Q6Kx43RCyI=",
+  "Source": "dockernew",
+  "BasePath": "_content/dockernew",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

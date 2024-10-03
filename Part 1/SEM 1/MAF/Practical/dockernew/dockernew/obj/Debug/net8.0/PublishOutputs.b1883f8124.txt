@@ -1,0 +1,11 @@
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\dockernew.exe
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\dockernew.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\dockernew.deps.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\dockernew.runtimeconfig.json
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\dockernew.pdb
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MSc-IT\Part 1\SEM 1\MAF\Practical\dockernew\dockernew\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

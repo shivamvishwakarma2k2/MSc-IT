@@ -1,6 +1,0 @@
-@Glossary_6620_HostAddress = http://localhost:5262
-
-GET {{Glossary_6620_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
