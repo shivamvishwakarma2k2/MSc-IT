@@ -10,4 +10,4 @@ print("Resized shape: ", newImg.shape)
 
 cv2.imshow('Original Image', img)
 cv2.imshow('Resized Image', newImg)
-cv2.waitKey(0)
+cv2.waitKey(0)  

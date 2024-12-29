@@ -9,6 +9,3 @@ cv2.imshow("contrasted_img", contrasted_img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
