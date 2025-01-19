@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/solidity/solidity_overview.htm
+
+https://www.w3schools.io/blockchain/solidity-memory-vs-storage/
