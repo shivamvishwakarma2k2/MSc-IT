@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load the image in grayscale (0 means grayscale)
-image = cv2.imread("Img\\steal_life.jpg", 0)
+image = cv2.imread("Img\\drawen.png", 0)
 
 # Create a 5x5 elliptical structuring element
 stelement2 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5))
