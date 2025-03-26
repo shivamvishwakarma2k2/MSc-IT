@@ -1,4 +1,3 @@
-import datetime
 import binascii
 from Crypto.PublicKey import RSA
 from Crypto import Random
@@ -17,5 +16,4 @@ class Client:
 
 # Create a new client instance
 client = Client()
-print(datetime.datetime.now())
 print("Sender: ", client.identity)

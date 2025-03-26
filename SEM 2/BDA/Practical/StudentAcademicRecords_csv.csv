@@ -1,6 +1,0 @@
-first_name,last_name,subject,specialization,percentage,cgpa,Date_of_Enrollment,Location,Graduation_Year,Email,Status
-Alice,Smith,Computer Science,Artificial Intelligence,89.5,8.7,2021-09-01,New York, USA,2025,alice.smith@example.com,Enrolled
-Bob,Johnson,Mechanical Engineering,Thermodynamics,78.2,7.9,2020-08-15,Los Angeles, USA,2024,bob.johnson@example.com,Enrolled
-Charlie,Williams,Electrical Engineering,Power Systems,92.4,9.2,2022-01-10,Chicago, USA,2026,charlie.williams@example.com,Enrolled
-Diana,Taylor,Civil Engineering,Structural Engineering,85.3,8.5,2021-06-15,San Francisco, USA,2025,diana.taylor@example.com,Enrolled
-Eva,Green,Biotechnology,Genomics,88.9,8.8,2020-09-10,Austin, USA,2024,eva.green@example.com,Graduated
