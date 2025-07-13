@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Trash - shivamvishwakarma2k2@gmail.com - Gmail",
+  "Type": "App",
+  "Id": "ZbwWMAoe_kmuBzovolTQuw",
+  "Reference": "JSnL1ykxDEuR9JCjcHwpig/ZbwWMAoe_kmuBzovolTQuw",
+  "Created": "2025-07-13T06:59:35.7116205Z",
+  "Updated": "2025-07-13T06:59:35.7116205Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
