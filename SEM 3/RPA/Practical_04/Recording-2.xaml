@@ -1,0 +1,107 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Recording_2" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="Recording_2_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.ComponentModel</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Recording_2" sap:VirtualizedContainerService.HintSize="903.2,416.44000000000005" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Browser" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="483.2,381.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="b58c680f-25b2-4890-a20f-451703901ff7" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,91.2" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 1920, 1080" ContentHash="PCj1d7DP00SGpBg3IEZ7mQ" FilePath="C:\Windows\explorer.exe" IconBase64="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" InformativeScreenshot="7be8aed1050249e1d146560af7268c9b.png" Reference="Ukc-bxa32kCsXfIhLnaGnQ/EOVd9OPToEqDCquNnUUG1w" Selector="&lt;wnd app='explorer.exe' cls='Progman' title='Program Manager' /&gt;" Version="V2" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

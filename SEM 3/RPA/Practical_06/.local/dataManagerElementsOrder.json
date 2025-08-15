@@ -1,0 +1,12 @@
+{
+  "Workflows": [
+    {
+      "Path": "Excel_operation_1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
