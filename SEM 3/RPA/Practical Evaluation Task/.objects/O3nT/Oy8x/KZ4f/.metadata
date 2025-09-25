@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Automation Training - Build Automation",
+  "Type": "Screen",
+  "Id": "KZ4fnAIx_0KPwwDdKDrsvg",
+  "Reference": "NDbEbFbGcUqi_5nsiOSl-Q/KZ4fnAIx_0KPwwDdKDrsvg",
+  "ParentRef": "NDbEbFbGcUqi_5nsiOSl-Q/Oy8xZfWB6ECn9-wxWxpE4A",
+  "Created": "2025-08-28T14:42:37.0294616Z",
+  "Updated": "2025-08-28T14:42:37.0294616Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

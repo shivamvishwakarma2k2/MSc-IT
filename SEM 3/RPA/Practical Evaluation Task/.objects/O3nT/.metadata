@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Automation Training - Build Automation Skills with Free Courses  UiPath Academy",
+  "Type": "App",
+  "Id": "O3nTE1ZNMEuNMYFdfb_hew",
+  "Reference": "NDbEbFbGcUqi_5nsiOSl-Q/O3nTE1ZNMEuNMYFdfb_hew",
+  "Created": "2025-08-28T14:42:36.9738956Z",
+  "Updated": "2025-08-28T14:42:36.9738956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

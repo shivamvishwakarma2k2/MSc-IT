@@ -1,0 +1,201 @@
+ISBN,Book-Title,Book-Author,Publisher
+1,The Hobbit,J.R.R. Tolkien,Houghton Mifflin
+2,The Fellowship of the Ring,J.R.R. Tolkien,Houghton Mifflin
+3,The Two Towers,J.R.R. Tolkien,Houghton Mifflin
+4,The Return of the King,J.R.R. Tolkien,Houghton Mifflin
+5,The Alchemist,Paulo Coelho,HarperCollins
+6,The Da Vinci Code,Dan Brown,Doubleday
+7,The Catcher in the Rye,J.D. Salinger,Little Brown and Company
+8,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Corporation
+9,Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic Corporation
+10,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic Corporation
+11,Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Corporation
+12,And Then There Were None,Agatha Christie,Dodd Mead and Company
+13,The Lion, the Witch and the Wardrobe,C.S. Lewis Geoffrey Bles
+14,One Hundred Years of Solitude,Gabriel García Márquez,Harper & Row
+15,The Bridges of Madison County,Robert James Waller,Warner Books
+16,Charlotte's Web,E.B. White,Harper & Brothers
+17,Black Beauty,Anna Sewell,Jarrold & Sons
+18,To Kill a Mockingbird,Harper Lee,J.B. Lippincott & Co.
+19,1984,George Orwell,Secker & Warburg
+20,The Great Gatsby,F. Scott Fitzgerald,Charles Scribner's Sons
+21,Pride and Prejudice,Jane Austen,T. Egerton
+22,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Pan Books
+23,The Lord of the Rings,J.R.R. Tolkien,Allen & Unwin
+24,The Shining,Stephen King,Doubleday
+25,The Stand,Stephen King,Doubleday
+26,It,Stephen King,Viking Press
+27,A Game of Thrones,George R.R. Martin,Bantam Spectra
+28,A Clash of Kings,George R.R. Martin,Bantam Spectra
+29,A Storm of Swords,George R.R. Martin,Bantam Spectra
+30,A Feast for Crows,George R.R. Martin,Bantam Spectra
+31,A Dance with Dragons,George R.R. Martin,Bantam Spectra
+32,Don Quixote,Miguel de Cervantes,Francisco de Robles
+33,A Tale of Two Cities,Charles Dickens,Chapman & Hall
+34,Little Prince,Antoine de Saint-Exupéry,Reynal & Hitchcock
+35,The Secret,Rhonda Byrne,Atria/Beyond Words
+36,Gone with the Wind,Margaret Mitchell,Macmillan Publishers
+37,The Martian,Andy Weir,Crown Publishing
+38,The Hunger Games,Suzanne Collins,Scholastic Press
+39,Catching Fire,Suzanne Collins,Scholastic Press
+40,Mockingjay,Suzanne Collins,Scholastic Press
+41,Divergent,Veronica Roth,Katherine Tegen Books
+42,Insurgent,Veronica Roth,Katherine Tegen Books
+43,Allegiant,Veronica Roth,Katherine Tegen Books
+44,The Girl with the Dragon Tattoo,Stieg Larsson,Norstedts Farlag
+45,The Girl Who Played with Fire,Stieg Larsson,Norstedts Farlag
+46,The Girl Who Kicked the Hornets' Nest,Stieg Larsson,Norstedts Farlag
+47,The Book Thief,Markus Zusak,Picador
+48,Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons
+49,The Nightingale,Kristin Hannah,St. Martin's Press
+50,Educated,Tara Westover,Random House
+51,Becoming,Michelle Obama,Crown
+52,The Subtle Art of Not Giving a F*ck,Mark Manson,HarperOne
+53,Sapiens: A Brief History of Humankind,Yuval Noah Harari,D. G. N. Publishing House
+54,A Brief History of Time,Stephen Hawking,Bantam Dell
+55,Cosmos,Carl Sagan,Random House
+56,The Diary of a Young Girl,Anne Frank,Contact Publishing
+57,The Four Agreements,Don Miguel Ruiz,Amber-Allen Publishing
+58,Rich Dad Poor Dad,Robert Kiyosaki,Plata Publishing
+59,The 7 Habits of Highly Effective People,Stephen Covey,Simon & Schuster
+60,Harry Potter and the Order of the Phoenix,J.K. Rowling,Bloomsbury Publishing
+61,Harry Potter and the Half-Blood Prince,J.K. Rowling,Bloomsbury Publishing
+62,Harry Potter and the Deathly Hallows,J.K. Rowling,Bloomsbury Publishing
+63,Twilight,Stephenie Meyer,Little Brown and Company
+64,New Moon,Stephenie Meyer,Little Brown and Company
+65,Eclipse,Stephenie Meyer,Little Brown and Company
+66,Breaking Dawn,Stephenie Meyer,Little Brown and Company
+67,The Road,Cormac McCarthy,Alfred A. Knopf
+68,Fahrenheit 451,Ray Bradbury,Ballantine Books
+69,Frankenstein,Mary Shelley,Lackington
+70,Dracula,Bram Stoker,Archibald Constable & Co.
+71,The Picture of Dorian Gray,Oscar Wilde,Ward  Lock and Co.
+72,Sense and Sensibility,Jane Austen,Thomas Egerton
+73,Emma,Jane Austen,John Murray
+74,Moby-Dick,Herman Melville,Richard Bentley
+75,War and Peace,Leo Tolstoy,The Russian Messenger
+76,Crime and Punishment,Fyodor Dostoevsky,The Russian Messenger
+77,The Brothers Karamazov,Fyodor Dostoevsky,The Russian Messenger
+78,A Wrinkle in Time,Madeleine L'Engle,Farrar Straus and Giroux
+79,The Grapes of Wrath,John Steinbeck,The Viking Press
+80,Of Mice and Men,John Steinbeck,Covici Friede
+81,The Old Man and the Sea,Ernest Hemingway,Scribner's
+82,The Bell Jar,Sylvia Plath,Heinemann
+83,The Sun Also Rises,Ernest Hemingway,Scribner's
+84,A Farewell to Arms,Ernest Hemingway,Scribner's
+85,The Secret Garden,Frances Hodgson Burnett,Frederick A. Stokes Company
+86,Little Women,Louisa May Alcott,Roberts Brothers
+87,Don't Sweat the Small Stuff... and It's All Small Stuff,Richard Carlson,Hyperion
+88,The Power of Now,Eckhart Tolle,New World Library
+89,The Four Winds,Kristin Hannah,St. Martin's Press
+90,The Midnight Library,Matt Haig,Viking
+91,Circe,Madeline Miller,Little Brown and Company
+92,The Song of Achilles,Madeline Miller,Ecco
+93,The Handmaid's Tale,Margaret Atwood,McClelland and Stewart
+94,Catch-22,Joseph Heller,Simon & Schuster
+95,The Giver,Lois Lowry,Houghton Mifflin
+96,Brave New World,Aldous Huxley,Chatto & Windus
+97,A Clockwork Orange,Anthony Burgess,Heinemann
+98,The Stand,Stephen King,Doubleday
+99,The Lord of the Rings,J.R.R. Tolkien,Allen & Unwin
+100,The Shining,Stephen King,Doubleday
+101,It,Stephen King,Viking Press
+102,A Game of Thrones,George R.R. Martin,Bantam Spectra
+103,A Clash of Kings,George R.R. Martin,Bantam Spectra
+104,A Storm of Swords,George R.R. Martin,Bantam Spectra
+105,A Feast for Crows,George R.R. Martin,Bantam Spectra
+106,A Dance with Dragons,George R.R. Martin,Bantam Spectra
+107,Don Quixote,Miguel de Cervantes,Francisco de Robles
+108,A Tale of Two Cities,Charles Dickens,Chapman & Hall
+109,The Little Prince,Antoine de Saint-Exupéry,Reynal & Hitchcock
+110,The Secret,Rhonda Byrne,Atria/Beyond Words
+111,Gone with the Wind,Margaret Mitchell,Macmillan Publishers
+112,The Martian,Andy Weir,Crown Publishing
+113,The Hunger Games,Suzanne Collins,Scholastic Press
+114,Catching Fire,Suzanne Collins,Scholastic Press
+115,Mockingjay,Suzanne Collins,Scholastic Press
+116,Divergent,Veronica Roth,Katherine Tegen Books
+117,Insurgent,Veronica Roth,Katherine Tegen Books
+118,Allegiant,Veronica Roth,Katherine Tegen Books
+119,The Girl with the Dragon Tattoo,Stieg Larsson,Norstedts Farlag
+120,The Girl Who Played with Fire,Stieg Larsson,Norstedts Farlag
+121,The Girl Who Kicked the Hornets' Nest,Stieg Larsson,Norstedts Farlag
+122,The Book Thief,Markus Zusak,Picador
+123,Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons
+124,The Nightingale,Kristin Hannah,St. Martin's Press
+125,Educated,Tara Westover,Random House
+126,Becoming,Michelle Obama,Crown
+127,The Subtle Art of Not Giving a F*ck,Mark Manson,HarperOne
+128,Sapiens: A Brief History of Humankind,Yuval Noah Harari,D. G. N. Publishing House
+129,A Brief History of Time,Stephen Hawking,Bantam Dell
+130,Cosmos,Carl Sagan,Random House
+131,The Diary of a Young Girl,Anne Frank,Contact Publishing
+132,The Four Agreements,Don Miguel Ruiz,Amber-Allen Publishing
+133,Rich Dad Poor Dad,Robert Kiyosaki,Plata Publishing
+134,The 7 Habits of Highly Effective People,Stephen Covey,Simon & Schuster
+135,Harry Potter and the Order of the Phoenix,J.K. Rowling,Bloomsbury Publishing
+136,Harry Potter and the Half-Blood Prince,J.K. Rowling,Bloomsbury Publishing
+137,Harry Potter and the Deathly Hallows,J.K. Rowling,Bloomsbury Publishing
+138,Twilight,Stephenie Meyer,Little Brown and Company
+139,New Moon,Stephenie Meyer,Little Brown and Company
+140,Eclipse,Stephenie Meyer,Little Brown and Company
+141,Breaking Dawn,Stephenie Meyer,Little Brown and Company
+142,The Road,Cormac McCarthy,Alfred A. Knopf
+143,Fahrenheit 451,Ray Bradbury,Ballantine Books
+144,Frankenstein,Mary Shelley,Lackington
+145,Dracula,Bram Stoker,Archibald Constable & Co.
+146,The Picture of Dorian Gray,Oscar Wilde,Archibald Constable & Co.
+147,Sense and Sensibility,Jane Austen,Thomas Egerton
+148,Emma,Jane Austen,John Murray
+149,Moby-Dick,Herman Melville,Richard Bentley
+150,War and Peace,Leo Tolstoy,The Russian Messenger
+151,Crime and Punishment,Fyodor Dostoevsky,The Russian Messenger
+152,The Brothers Karamazov,Fyodor Dostoevsky,The Russian Messenger
+153,A Wrinkle in Time,Madeleine L'Engle,Farrar
+154,The Grapes of Wrath,John Steinbeck,The Viking Press
+155,Of Mice and Men,John Steinbeck,Covici Friede
+156,The Old Man and the Sea,Ernest Hemingway,Scribner's
+157,The Bell Jar,Sylvia Plath,Heinemann
+158,The Sun Also Rises,Ernest Hemingway,Scribner's
+159,A Farewell to Arms,Ernest Hemingway,Scribner's
+160,The Secret Garden,Frances Hodgson Burnett,Frederick A. Stokes Company
+161,Little Women,Louisa May Alcott,Roberts Brothers
+162,Don't Sweat the Small Stuff... and It's All Small Stuff,Richard Carlson,Hyperion
+163,The Power of Now,Eckhart Tolle,New World Library
+164,The Four Winds,Kristin Hannah,St. Martin's Press
+165,The Midnight Library,Matt Haig,Viking
+166,Circe,Madeline Miller,Little Brown and Company
+167,The Song of Achilles,Madeline Miller,Ecco
+168,The Handmaid's Tale,Margaret Atwood,McClelland and Stewart
+169,Catch-22,Joseph Heller,Simon & Schuster
+170,The Giver,Lois Lowry,Houghton Mifflin
+171,Brave New World,Aldous Huxley,Chatto & Windus
+172,A Clockwork Orange,Anthony Burgess,Heinemann
+173,Alice's Adventures in Wonderland,Lewis Carroll,Macmillan Publishers
+174,The Adventures of Huckleberry Finn,Mark Twain,Chatto & Windus
+175,The Adventures of Tom Sawyer,Mark Twain,American Publishing Company
+176,Treasure Island,Robert Louis Stevenson,Cassell
+177,The Scarlet Letter,Nathaniel Hawthorne,Ticknor
+178,The Pilgrim's Progress,John Bunyan,Nathaniel Ponder
+179,A Christmas Carol,Charles Dickens,Chapman & Hall
+180,David Copperfield,Charles Dickens,Bradbury and Evans
+181,Oliver Twist,Charles Dickens,Richard Bentley
+182,Uncle Tom's Cabin,Harriet Beecher Stowe,John P. Jewett & Company
+183,The Three Musketeers,Alexandre Dumas,Baudry's European Library
+184,The Count of Monte Cristo,Alexandre Dumas,P. P. M. F. A.
+185,Les Misérables,Victor Hugo,A. Lacroix
+186,Ivanhoe,Walter Scott,Constable & Co.
+187,The Red Badge of Courage,Stephen Crane,D. Appleton & Company
+188,Anne of Green Gables,L.M. Montgomery,L.C. Page & Co.
+189,The Swiss Family Robinson,Johann David Wyss,Orell
+190,A Portrait of the Artist as a Young Man,James Joyce,B. W. Huebsch
+191,Lord Jim,Joseph Conrad,William Blackwood and Sons
+192,Fathers and Sons,Ivan Sergeevich Turgenev,The Russian Messenger
+193,Doctor Zhivago,Boris Leonidovich Pasternak,Giangiacomo Feltrinelli
+194,The Decameron,Giovanni Boccaccio,Boccaccio
+195,Persuasion,Jane Austen,John Murray
+196,Mansfield Park,Jane Austen,J. Murray
+197,Candide,Voltaire,Genave
+198,For Whom the Bell Tolls,Ernest Hemingway,Charles Scribner's Sons
+199,The Return of the Native,Thomas Hardy,Smith
+200,Sons and Lovers,D.H. Lawrence,Duckworth
