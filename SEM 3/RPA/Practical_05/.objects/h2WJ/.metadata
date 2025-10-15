@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Home - Automation Cloud",
+  "Type": "App",
+  "Id": "h2WJr8PAA0iABTC6-LoPkA",
+  "Reference": "-TgDIoIyjkyddRWeoJg5JQ/h2WJr8PAA0iABTC6-LoPkA",
+  "Created": "2025-09-27T09:28:18.3359733Z",
+  "Updated": "2025-09-27T09:28:18.3359733Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

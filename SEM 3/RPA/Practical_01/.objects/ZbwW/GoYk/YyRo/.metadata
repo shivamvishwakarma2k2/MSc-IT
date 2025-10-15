@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Inbox - shivamvishwakarma2k2@gmail.com",
+  "Type": "Screen",
+  "Id": "YyRoskCWtE-M1vjoZFdozQ",
+  "Reference": "JSnL1ykxDEuR9JCjcHwpig/YyRoskCWtE-M1vjoZFdozQ",
+  "ParentRef": "JSnL1ykxDEuR9JCjcHwpig/GoYkQU3TYU6mhwaAATsRtQ",
+  "Created": "2025-09-29T07:02:02.6279099Z",
+  "Updated": "2025-09-29T07:02:02.6279099Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

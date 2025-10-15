@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Home - Automation Cloud",
+  "Type": "Screen",
+  "Id": "xRjuGROyZEqBmqPrEOuYaw",
+  "Reference": "-TgDIoIyjkyddRWeoJg5JQ/xRjuGROyZEqBmqPrEOuYaw",
+  "ParentRef": "-TgDIoIyjkyddRWeoJg5JQ/MEy1hx9S2UO2leQwQjcljQ",
+  "Created": "2025-09-27T09:28:18.3894187Z",
+  "Updated": "2025-09-27T09:28:18.3894187Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

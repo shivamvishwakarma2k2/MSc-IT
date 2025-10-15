@@ -3,7 +3,7 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
@@ -58,6 +58,14 @@
     },
     {
       "Path": "Test_Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Task_09.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,

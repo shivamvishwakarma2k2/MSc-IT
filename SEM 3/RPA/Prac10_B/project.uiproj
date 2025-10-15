@@ -1,0 +1,6 @@
+{
+  "Name": "Prac10_B",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

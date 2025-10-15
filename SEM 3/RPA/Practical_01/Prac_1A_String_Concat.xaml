@@ -73,7 +73,7 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Prac_1A_String_Concat" sap:VirtualizedContainerService.HintSize="877.2,762.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Prac_1A_String_Concat" sap:VirtualizedContainerService.HintSize="885.2,762.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -99,7 +99,7 @@
           <OutArgument x:TypeArguments="x:String">[education_class]</OutArgument>
         </ui:InputDialog.Result>
       </ui:InputDialog>
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Name: &quot; + name.ToString + &quot;Education: &quot; + education_class.ToString]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Name: &quot; + name + Environment.NewLine + &quot;Education: &quot; + education_class]" />
     </Sequence>
   </Sequence>
 </Activity>
