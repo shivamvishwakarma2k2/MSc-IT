@@ -1,0 +1,123 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+
+/* Profile Card */
+.profile-card {
+  width: 320px;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  position: relative;
+}
+
+
+/* Light Theme */
+.profile-card.light {
+  background: rgba(255, 255, 255, 0.6);
+  color: #333;
+}
+
+
+/* Dark Theme */
+.profile-card.dark {
+  background: rgba(20, 20, 20, 0.8);
+  color: #fff;
+}
+
+
+/* Profile Image */
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 15px;
+  transition: transform 0.3s;
+}
+
+
+.profile-img:hover {
+  transform: scale(1.1);
+}
+
+
+/* Name */
+.name {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+/* Email & City */
+.email,
+.city {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+
+/* Button */
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  transition: background 0.3s, transform 0.2s;
+}
+
+
+/* Follow */
+.follow {
+  background-color: #007bff;
+  color: white;
+}
+
+
+.follow:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+
+/* Unfollow */
+.unfollow {
+  background-color: #dc3545;
+  color: white;
+}
+
+
+.unfollow:hover {
+  background-color: #a71d2a;
+  transform: scale(1.05);
+}
+
+
+/* Dark Mode Toggle */
+.theme-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+
+/* Loading */
+.loading {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
