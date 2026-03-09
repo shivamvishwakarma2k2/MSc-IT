@@ -1,0 +1,13 @@
+[INFO] Application started successfully
+[INFO] Connected to database
+[WARNING] Disk space running low
+[ERROR] Failed to fetch user data
+[INFO] Retrying request
+[ERROR] Database timeout occurred
+[INFO] Request completed
+[DEBUG] User ID: 4821
+[WARNING] High memory usage detected
+[INFO] Background job started
+[ERROR] Unable to send email notification
+[DEBUG] Cache refreshed
+[INFO] Application shutdown initiated
